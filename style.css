@@ -2,7 +2,7 @@ body{
 
      width: 100%;
      height: 100vh;
-     background: black;
+     background: white;
      display: grid;
      place-items: center;
 }
@@ -47,7 +47,16 @@ header .song_side nav ul{
     padding: 10px 0; 
 } 
 
-
+/* header ,singer-img
+{
+    width: 100%;
+    height: 30%;
+    border: 1px solid #fff; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url(1\ Alanwalker.jpeg); */
+ 
 
 
 
